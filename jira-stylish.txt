@@ -13,4 +13,8 @@
 .ghx-plan-extra-fields.ghx-plan-extra-fields-1.ghx-row * {
 	position:relative;
 }
+
+.ghx-closed .ghx-sprint-info {
+	display: none;
+}
 }

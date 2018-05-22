@@ -1,0 +1,16 @@
+@-moz-document domain("jira.endurance.com") {
+.ghx-plan-extra-fields.ghx-plan-extra-fields-1.ghx-row {
+	position: absolute;
+    left: 60%;
+	right:0;
+    top: 0;
+}
+
+.ghx-extra-field {
+	background: white;
+}
+
+.ghx-plan-extra-fields.ghx-plan-extra-fields-1.ghx-row * {
+	position:relative;
+}
+}
